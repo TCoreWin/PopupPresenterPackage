@@ -1,0 +1,12 @@
+{
+    "name": "com.squaredino.popuppresenter",
+    "displayName": "Checker Contrast",
+    "version": "1.0.0",
+    "unity": "2019.4",
+    "description": "Popup Presenter",
+    "author": {
+        "name": "SquareDino",
+        "email": "",
+        "url": ""
+    }
+}
