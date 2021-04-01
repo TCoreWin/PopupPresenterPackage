@@ -1,10 +1,12 @@
 {
     "name": "SqureDino.PopupPresenter.Editor",
-    "references": [],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "references": [
+        "GUID:bc72d8e6725f647409126524c297c6fd"
+    ],
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],

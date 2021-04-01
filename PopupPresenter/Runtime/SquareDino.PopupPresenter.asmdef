@@ -2,8 +2,7 @@
     "name": "SquareDino.PopupPresenter",
     "references": [
         "GUID:6055be8ebefd69e48b49212b09b47b2f",
-        "GUID:fbb7a52d8897cce42a71ba8c4836ae6e",
-        "GUID:28e6b5459afad6546b1c45b9791e9b6f"
+        "GUID:2dd70a81e60b4f54d8d767a7a6257d3c"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
